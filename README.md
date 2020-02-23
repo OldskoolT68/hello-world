@@ -2,4 +2,4 @@
 Read Aloud Fix
 Hi Everyone 
 
-!St time attempt at creating with Gitrhub.
+This is my time attempt at creating a Repository.
